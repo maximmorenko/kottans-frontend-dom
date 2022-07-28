@@ -34,4 +34,6 @@
 
 ## DOM
 
-## [DOM demo](https://maximmorenko.github.io/kottans-frontend-dom)
+## [DOM_demo](https://maximmorenko.github.io/kottans-frontend-dom)
+
+![Algorithms](https://github.com/maximmorenko/kottans-frontend/blob/master/assets/task_js_dom/Algorithms.jpg)

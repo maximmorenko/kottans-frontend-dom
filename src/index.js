@@ -61,6 +61,7 @@ const openFullPreview = function (imgItem) {
       if (event.keyCode === 27) {
         bigPictureFragment.classList.add('hidden');
         document.removeEventListener('keyup', handlerEsc);
+        mainContentWrapper.classList.remove('hidden');
       }
     };
 
